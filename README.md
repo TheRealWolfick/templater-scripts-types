@@ -4,9 +4,9 @@ Type definitions for creating user scripts
 This is intended to assist with creating user scripts with the templater plugin by proving typescript like functionality in your javascript files.
 
 # How to use
-1. Download the .dev folder and tsconfig.json file.
-2. Place these files in whichever folder you have defined as your templater scripts folder.
-3. If you use obsidian git, consider adding "\*\*/.dev/\*\*" and "\*\*/tsconfig.json" to your .gitignore file.
+1. Clone the repository to wherever
+2. Copy the .dev folder and tsconfig.json file into whichever folder you have defined as your templater scripts folder.
+3. (optional) If you use obsidian git, consider adding "\*\*/.dev/\*\*" and "\*\*/tsconfig.json" to your .gitignore file.
 4. Create all your user scripts with the following format:
 
 ```javascript
