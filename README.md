@@ -29,6 +29,7 @@ This gives the correct suggestions to all templater functions with full jsdocs a
 
 Information for jsdocs was replicated from [https://silentvoid13.github.io/Templater|Templater Docs]
 
-External sources:
+**External sources:**
 moment.d.ts types file copied from [https://github.com/moment/moment]
+
 obsidian types cloned from [https://github.com/obsidianmd/obsidian-api]
