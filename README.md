@@ -27,8 +27,8 @@ This gives the correct suggestions to all templater functions with full jsdocs a
 
 # References
 
-Information for jsdocs was replicated from [https://silentvoid13.github.io/Templater|Templater Docs]
+Information for jsdocs was replicated from [Templater Docs](https://silentvoid13.github.io/Templater)
 
-moment.d.ts types file copied from [https://github.com/moment/moment]
+moment.d.ts types file copied from [https://github.com/moment/moment](https://github.com/moment/moment)
 
-obsidian types cloned from [https://github.com/obsidianmd/obsidian-api]
+obsidian types cloned from [https://github.com/obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api)
