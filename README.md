@@ -16,7 +16,7 @@ import moment from '.dev/types/moment';
  * 
  * @param {import('templater-obsidian').TemplaterApi} tp
  */
-function addCssClasses (tp) {
+function userFunction (tp) {
     
 }
 
