@@ -25,6 +25,8 @@ modult.exports = userFunction;
 
 This gives the correct suggestions to all templater functions with full jsdocs as per the plugin functions.
 
+# References
+
 Information for jsdocs was replicated from [https://silentvoid13.github.io/Templater|Templater Docs]
 
 External sources:
