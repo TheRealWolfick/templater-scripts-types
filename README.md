@@ -20,7 +20,7 @@ function userFunction (tp) {
     
 }
 
-modult.exports = userFunction;
+module.exports = userFunction;
 ```
 
 5. If you are using the moment interface, uncomment line 1 for types and autocomplete.
