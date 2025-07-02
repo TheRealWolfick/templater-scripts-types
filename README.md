@@ -10,7 +10,7 @@ This is intended to assist with creating user scripts with the templater plugin 
 4. Create all your user scripts with the following format:
 
 ```javascript
-import moment from '.dev/types/moment'; 
+//import moment from '.dev/types/moment'; 
 
 /**
  * 
@@ -22,6 +22,9 @@ function userFunction (tp) {
 
 modult.exports = userFunction;
 ```
+
+5. If you are using the moment interface, uncomment line 1 for types and autocomplete.
+6. Re-comment line 1 else templater will throw an error on trying to execute the script file
 
 This gives the correct suggestions to all templater functions with full jsdocs as per the plugin functions.
 
