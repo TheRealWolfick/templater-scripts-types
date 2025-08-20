@@ -16,6 +16,11 @@ This gives the correct suggestions to all templater functions with full jsdocs a
 # Templates
 
 ### Templater
+**Internal function call**
+```javascript
+tp.user.userFunction(tp)
+```
+**Script**
 ```javascript
 //import moment from '.dev/types/moment'; 
 
@@ -31,6 +36,11 @@ module.exports = userFunction;
 ```
 
 ### Templater + Dataview
+**Internal function call**
+```
+tp.user.userFunction(tp, this.app.plugins.plugins["dataview"].api)
+```
+**Script**
 ```javascript
 //import moment from '.dev/types/moment'; 
 
