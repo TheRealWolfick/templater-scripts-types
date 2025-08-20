@@ -1,4 +1,4 @@
-// .dev/types/templater.d.ts
+// .dev/templater-obsidian.d.ts
 declare module 'templater-obsidian' {
     import { Plugin, App, TFile } from 'obsidian';
 
